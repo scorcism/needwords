@@ -1,6 +1,6 @@
-# Lorem ipsum generator
+# Simple words generator
 
-A simple lorem ipsum generator
+A simple lorem ipsum word generator
 
 ### Installation
 
